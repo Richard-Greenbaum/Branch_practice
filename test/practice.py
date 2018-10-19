@@ -6,6 +6,7 @@ class ListNode:
     def __init__(self, value, child = None):
         self.value = value
         self.child = child
+        self.name = 'Charlie'
 
 class stack:
     base_node = None
