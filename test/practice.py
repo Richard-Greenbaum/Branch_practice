@@ -1,5 +1,6 @@
 #practice.py
 import copy
+print("hello")
 
 class ListNode:
     def __init__(self, value, child = None):
