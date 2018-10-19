@@ -7,6 +7,7 @@ class ListNode:
         self.value = value
         self.child = child
         self.water = True
+        self.name = 'Charlie'
 
 class stack:
     base_node = None
